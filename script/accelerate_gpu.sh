@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES="0,1" accelerate launch --config_file conf/accelerate_gpu_config.yaml train.py --distributed accelerate

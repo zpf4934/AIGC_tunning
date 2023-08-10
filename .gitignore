@@ -1,0 +1,9 @@
+logs
+CCPC
+outputs
+tuning_model
+.idea
+alpaca_data_cleaned.json
+couplets.json
+doctor.json
+poetry.json

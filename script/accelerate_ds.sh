@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES="0,1" accelerate launch --config_file conf/accelerate_ds_config.yaml --deepspeed_hostfile conf/hostfile train.py --distributed accelerate
